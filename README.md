@@ -1,5 +1,5 @@
 # Pythonic Garage Band
-PR: 
+PR: https://github.com/Bhattb2/pythonic-garage-band/pull/3
 ## Exercise
 Practice classes by making instances of bands and musicians
 
